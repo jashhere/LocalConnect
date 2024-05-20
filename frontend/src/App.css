@@ -1,0 +1,5 @@
+.card-container {
+    display: flex;
+    justify-content: space-between; /* Adjust as per your layout needs */
+  }
+  
